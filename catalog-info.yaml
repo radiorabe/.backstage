@@ -1,0 +1,32 @@
+---
+apiVersion: backstage.io/v1alpha1
+kind: Domain
+metadata:
+  name: audio
+  description: Everything strictly audio centric
+spec:
+  owner: it-reaktion
+---
+apiVersion: backstage.io/v1alpha1
+kind: Domain
+metadata:
+  name: broadcast
+  description: Broadcast vectors of all shape and form
+spec:
+  owner: it-reaktion
+---
+apiVersion: backstage.io/v1alpha1
+kind: Domain
+metadata:
+  name: it
+  description: Free radio, free data, free software 🥰
+spec:
+  owner: it-reaktion
+---
+apiVersion: backstage.io/v1alpha1
+kind: Domain
+metadata:
+  name: web
+  description: The world wide interwebs!
+spec:
+  owner: webteam
